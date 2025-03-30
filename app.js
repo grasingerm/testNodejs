@@ -4,7 +4,7 @@
    const swaggerJSDoc = require('swagger-jsdoc');
 
    const app = express();
-   const port = 3000;
+   const port = 4000;
 
    // Swagger definition
    const swaggerOptions = {
